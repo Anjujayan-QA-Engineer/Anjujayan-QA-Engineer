@@ -1,5 +1,14 @@
-![logo](https://github.com/Anjujayan-QA-Engineer/Anjujayan-QA-Engineer/blob/f76651d2622337af047c6bc87ad61a5af518ac09/software-testing-tools.jpg)
-<h1 align="center">Hi 👋, I'm Anju jayan</h1>
+![logo](https://github.com/Anjujayan-QA-Engineer/Anjujayan-QA-Engineer/blob/main/th.jpeg)
+<h1 align="center">Hi..I'm Anju jayan</h1>
+<p class="address">
+* Proffesional QA Engineer
+  <br>
+* Expertise in Manual & Automation Testing
+<br>
+* Focused on Software Quality
+<br>
+* Determined to Break & Fix things
+<br></h1>
 <h3 align="center">Passionate Software Tester</h3>
 
 
